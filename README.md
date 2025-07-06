@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Kadir!
+# 👋 Merhaba, ben Kadir!
 ### 💻 C++ & Python Developer | Algorithm Enthusiast
 
 ### 🚀 Hakkımda
