@@ -33,5 +33,3 @@
 - Mail: kadirbcrkl@icloud.com
 
 ---
-
-⭐️ Profilimi görüntülediğiniz için teşekkürler!
