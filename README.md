@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Merhaba, ben Kadir!
+## 💻 C++ & Python Developer | Algorithm Enthusiast
 
-<!--
-**kad1rbcrkl/kad1rbcrkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Hakkımda
+- 🔧 Sistem programlama, algoritmalar ve performans odaklı kodlama ilgimi çekiyor.
+- 🧠 Yapay zeka projeleriyle Python tarafında da aktif çalışıyorum.
+- 💡 Boş zamanlarımda terminal araçları yazıyor, Linux sistemlerle oynuyorum.
+- 💬 Bana sorabileceğin konular: `C++`, `Python`, `Linux`, `OOP`, `Algoritmalar`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Kullandığım Teknolojiler
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📌 Öne Çıkan Projelerim
+
+| 🧠 ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu | Python |
+| ⚙️ sysmon-cli | `C++` ile yazılmış terminal sistem monitörü | C++ |
+| 🧪 sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı | C++ |
+| 🎨 flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu | CSS |
+| 🤖 chatbot-lite | Konsol tabanlı `Python` chatbot denemesi | Python |
+
+---
+
+### 📫 Bana Ulaş
+- GitHub: [kad1rbcrkl](https://github.com/kad1rbcrkl)
+- Mail: kadirbcrkl@icloud.com
+
+-
+
+⭐️ Profilimi ziyaret ettiğin için teşekkürler!
