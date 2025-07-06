@@ -21,11 +21,11 @@
 
 ### 📌 Öne Çıkan Projelerim
 
-* ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu | Python |
-- sysmon-cli | `C++` ile yazılmış terminal sistem monitörü | C++ |
-- sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı | C++ |
-- flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu | CSS |
-- chatbot-lite | Konsol tabanlı `Python` chatbot denemesi | Python |
+* ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu.
+- sysmon-cli | `C++` ile yazılmış terminal sistem monitörü.
+- sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı.
+- flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu.
+- chatbot-lite | Konsol tabanlı `Python` chatbot denemesi.
 
 ---
 
