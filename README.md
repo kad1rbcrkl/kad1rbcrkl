@@ -1,15 +1,14 @@
 # 👋 Hello, I'm Kadir!
 ### 💻 C++ & Python Developer | Algorithm Enthusiast
 
-### 🚀 About Me
-- 🔧 Sistem programlama, algoritmalar ve performans odaklı kodlama ilgimi çekiyor.
-- 🧠 Yapay zeka projeleriyle Python tarafında da aktif çalışıyorum.
-- 💡 Boş zamanlarımda terminal araçları yazıyor, Linux sistemlerle oynuyorum.
-- 💬 Bana sorabileceğin konular: `C++`, `Python`, `Linux`, `OOP`, `Algoritmalar`
+### 🚀 Hakkımda
+- 🖥️ Sistem programlama, algoritmalar ve performans odaklı kodlama ilgimi çekiyor.
+- 🤖​ Yapay zeka projeleriyle Python tarafında da aktif çalışıyorum.
+- 🔧 Boş zamanlarımda terminal araçları yazıyor, Linux sistemlerle oynuyorum.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Kullandığım Yazılımlar.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
@@ -19,13 +18,13 @@
 
 ---
 
-### 📌 My Prominent Projects
+### 📌 Öne Çıkan Projelerim.
 
-* ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu. / AI-controlled snake game written in `Python`.
-* sysmon-cli | `C++` ile yazılmış terminal sistem monitörü. /  Terminal system monitor written in `C++`.
-* sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı. / Speed testing and visualisation tool for `C++` algorithms.
-* flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu. / Stylised flower animation with `SVG` + `CSS`.
-* chatbot-lite | Konsol tabanlı `Python` chatbot denemesi. / Console-based `Python` chatbot experiment.
+* ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu. 
+* sysmon-cli | `C++` ile yazılmış terminal sistem monitörü. 
+* sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı. 
+* flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu.
+* chatbot-lite | Konsol tabanlı `Python` chatbot denemesi.
 
 ---
 
@@ -35,4 +34,4 @@
 
 ---
 
-⭐️ Thanks for viewing my profile.
+⭐️ Profilimi görüntülediğiniz için teşekkürler!
