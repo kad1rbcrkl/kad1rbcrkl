@@ -22,10 +22,10 @@
 ### 📌 My Prominent Projects
 
 * ai-snake | `Python` ile yazılmış yapay zeka kontrollü yılan oyunu. / AI-controlled snake game written in `Python`.
-- sysmon-cli | `C++` ile yazılmış terminal sistem monitörü. /  Terminal system monitor written in `C++`.
-- sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı. / Speed testing and visualisation tool for `C++` algorithms.
-- flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu. / Stylised flower animation with `SVG` + `CSS`.
-- chatbot-lite | Konsol tabanlı `Python` chatbot denemesi. / Console-based `Python` chatbot experiment.
+* sysmon-cli | `C++` ile yazılmış terminal sistem monitörü. /  Terminal system monitor written in `C++`.
+* sort-battle | `C++` algoritmalarının hız testi ve görselleştirme aracı. / Speed testing and visualisation tool for `C++` algorithms.
+* flower-css | `SVG` + `CSS` ile stilize edilmiş çiçek animasyonu. / Stylised flower animation with `SVG` + `CSS`.
+* chatbot-lite | Konsol tabanlı `Python` chatbot denemesi. / Console-based `Python` chatbot experiment.
 
 ---
 
