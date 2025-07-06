@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 Aktif Olarak Kullandığım Teknolojiler
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white)
@@ -33,6 +33,6 @@
 - GitHub: [kad1rbcrkl](https://github.com/kad1rbcrkl)
 - Mail: kadirbcrkl@icloud.com
 
--
+---
 
 ⭐️ Profilimi ziyaret ettiğin için teşekkürler!
