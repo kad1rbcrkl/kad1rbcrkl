@@ -1,6 +1,5 @@
 # 👋 Merhaba, ben Kadir!
-### 💻 C++ & Python Developer | Algorithm Enthusiast
-
+### 💻 C++ & Python Developer
 ### 🚀 Hakkımda
 - 🖥️ Sistem programlama, algoritmalar ve performans odaklı kodlama ilgimi çekiyor.
 - 🤖​ Yapay zeka projeleriyle Python tarafında da aktif çalışıyorum.
